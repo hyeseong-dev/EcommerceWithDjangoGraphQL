@@ -3,13 +3,16 @@ asgiref==3.3.4
 boto3==1.17.68
 botocore==1.20.68
 Django==3.2.2
+django-storages==1.11.1
 graphene==2.1.8
 graphene-django==2.15.0
+graphene-file-upload==1.3.0
 graphql-core==2.3.2
 graphql-relay==2.0.1
 jmespath==0.10.0
 Pillow==8.2.0
 promise==2.3
+psycopg2==2.8.6
 PyJWT==2.1.0
 python-dateutil==2.8.1
 python-decouple==3.4
